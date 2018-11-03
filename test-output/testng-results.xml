@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76037" started-at="2018-10-30T17:04:11Z" finished-at="2018-10-30T17:05:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76037" started-at="2018-10-30T17:04:11Z" finished-at="2018-10-30T17:05:28Z">
+      <class name="com.automation.qa.testcases.DemoTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="setup" is-config="true" duration-ms="24332" started-at="2018-10-30T17:04:12Z" finished-at="2018-10-30T17:04:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateRegisterForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="validateRegisterForm" duration-ms="1719" started-at="2018-10-30T17:04:36Z" data-provider="getDemoTestData" finished-at="2018-10-30T17:04:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Srikanth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mailvaganam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Srikanth.ruban@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7.76291394E8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="tearDown" is-config="true" duration-ms="1518" started-at="2018-10-30T17:04:38Z" finished-at="2018-10-30T17:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="setup" is-config="true" duration-ms="20433" started-at="2018-10-30T17:04:40Z" finished-at="2018-10-30T17:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateRegisterForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="validateRegisterForm" duration-ms="1721" started-at="2018-10-30T17:05:00Z" data-provider="getDemoTestData" finished-at="2018-10-30T17:05:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dhanesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Baabu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dhanesh@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9.0909032E7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="tearDown" is-config="true" duration-ms="1315" started-at="2018-10-30T17:05:02Z" finished-at="2018-10-30T17:05:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="setup" is-config="true" duration-ms="21024" started-at="2018-10-30T17:05:03Z" finished-at="2018-10-30T17:05:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateRegisterForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="validateRegisterForm" duration-ms="1820" started-at="2018-10-30T17:05:24Z" data-provider="getDemoTestData" finished-at="2018-10-30T17:05:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rasith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rasith@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8989823.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterForm -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.qa.testcases.DemoTest@5f341870]" name="tearDown" is-config="true" duration-ms="1455" started-at="2018-10-30T17:05:26Z" finished-at="2018-10-30T17:05:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.qa.testcases.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
