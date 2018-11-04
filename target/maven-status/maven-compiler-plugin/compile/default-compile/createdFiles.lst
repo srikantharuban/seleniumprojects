@@ -1,0 +1,7 @@
+com\automation\qa\base\BassClass.class
+com\automation\qa\util\WebEventListener.class
+com\automation\qa\page\RegisterPage.class
+com\automation\qa\page\HomePage.class
+com\automation\qa\testdata\HobbiesEnum.class
+com\automation\qa\testdata\GenderEnum.class
+com\automation\qa\util\TestUtil.class
